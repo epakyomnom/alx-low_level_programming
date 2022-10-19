@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
 *main - Prints the first 98 Fibonacci numbers
 *Return: Always 0.
@@ -27,7 +26,7 @@ else
 if (boolean2)
 {
 n11 = n1 % 1000000000;
-22 = n2 % 1000000000;
+n22 = n2 % 1000000000;
 n1 = n1 / 1000000000;
 n2 = n2 / 1000000000;
 boolean2 = 0;
